@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Specify the engine version (via github tag)
-set(POTATO_ENGINE_VERSION "v2.0.3-beta") 
+set(POTATO_ENGINE_VERSION "v2.0.4-beta") 
 
 # include the engine module
 include(FetchContent)

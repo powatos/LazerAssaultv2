@@ -1,6 +1,6 @@
 # LazerAssaultv2
 
-A simple, terminal-based lazer obstacle game created using Potato Engine
+A simple, terminal-based lazer obstacle game created using Potato Engine 2.0.4-beta
 
 This game was developed on Windows using MSVC
 
